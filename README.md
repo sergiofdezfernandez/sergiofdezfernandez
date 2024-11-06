@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Tu Imagen de Perfil][(https://media.licdn.com/dms/image/v2/D5603AQHLTxzAB-8uYg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718284590922?e=1736380800&v=beta&t=5tX-qK__V8E9TSe2vjAhtvl17aV-jjNWjF0XQzqHQ-w))]([https://tu-perfil-en-linkedin.com)](https://www.linkedin.com/in/sergiofdezfdez/))
+[![Tu Imagen de Perfil](https://media.licdn.com/dms/image/v2/D5603AQHLTxzAB-8uYg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718284590922?e=1736380800&v=beta&t=5tX-qK__V8E9TSe2vjAhtvl17aV-jjNWjF0XQzqHQ-w))]([https://tu-perfil-en-linkedin.com)(https://www.linkedin.com/in/sergiofdezfdez/)
 # Sergio Fernández Fernández
 **Ingeníero de software especializado en tecnologías web**
 
