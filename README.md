@@ -12,8 +12,6 @@
     * [Proyecto 2](https://github.com/tu-usuario/proyecto2) -->
 
 ## Estadísticas
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiofdezfernandez&show_icons=true&theme=tokyonight)]
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app/api?user=sergiofdezfernandez&theme=tokyonight)]
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiofdezfernandez&show_icons=true&theme=tokyonight)
 ## Contacto
 * **Email:** sergiofdezfernandez@gmail.com
