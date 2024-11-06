@@ -1,4 +1,4 @@
-(https://media.licdn.com/dms/image/v2/D5603AQHLTxzAB-8uYg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718284590922?e=1736380800&v=beta&t=5tX-qK__V8E9TSe2vjAhtvl17aV-jjNWjF0XQzqHQ-w)
+[(https://media.licdn.com/dms/image/v2/D5603AQHLTxzAB-8uYg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718284590922?e=1736380800&v=beta&t=5tX-qK__V8E9TSe2vjAhtvl17aV-jjNWjF0XQzqHQ-w)]
 
 <h1 align="center">Hi 👋, I'm Sergio Fernández</h1>
 <h3 align="center">Ingeníero de software especializado en tecnologías web</h3>
